@@ -35,7 +35,7 @@ Make page responsive for different devices.
 GNU General Public License v3.0
 
 ### Link to the App
-<a href="https://github.com/galluk/Homework_Week_1_LG/blob/master/index.html">My Week 1 Homework</a><hr>
+<a href="https://github.com/galluk/Homework_Week_1_LG/blob/master/index.html">My Week 1 Homework</a>
 <hr>
 
 ## Authors
