@@ -17,8 +17,9 @@ This includes the use of semantic HTML elements in a logical structure and seque
 
 * [VScode](https://code.visualstudio.com/) - The editor of choice
 
-#### Initial interface
+#### Interface
 <hr>
+<p>The interface of the document remained unchanged.</p>
 ![Screenshot of page](assets/images/screenshot.png?raw=true)
 <img src="assets/images/screenshot.png" width="400">
 
