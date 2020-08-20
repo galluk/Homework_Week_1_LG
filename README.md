@@ -19,7 +19,7 @@ This includes the use of semantic HTML elements in a logical structure and seque
 
 #### Initial interface
 <hr>
-![Screenshot of page](https://github.com/galluk/Homework_Week_1_LG/blob/master/assets/images/screenshot.png)
+![Screenshot of page](https://github.com/galluk/Homework_Week_1_LG/blob/master/assets/images/screenshot.png?raw=true)
 
 #### Further Improvements
 <p>The original images have been resized for performance improvements.</p>
