@@ -19,7 +19,8 @@ This includes the use of semantic HTML elements in a logical structure and seque
 
 #### Initial interface
 <hr>
-![Screenshot of page](../assets/images/screenshot.png?raw=true)
+![Screenshot of page](assets/images/screenshot.png?raw=true)
+<img src="assets/images/screenshot.png">
 
 #### Further Improvements
 <p>The original images have been resized for performance improvements.</p>
