@@ -19,7 +19,7 @@ This includes the use of semantic HTML elements in a logical structure and seque
 
 #### Initial interface
 <hr>
-![Screenshot of page](/assets/images/screenshot.png)
+![Screenshot of page](https://github.com/galluk/Homework_Week_1_LG/blob/master/assets/images/screenshot.png)
 
 #### Further Improvements
 <p>The original images have been resized for performance improvements.</p>
@@ -33,7 +33,7 @@ Make page responsive for different devices.
 GNU General Public License v3.0
 
 ### Link to the App
-<a href=".">Link to the App</a><hr>
+<a href="https://github.com/galluk/Homework_Week_1_LG/blob/master/index.html">My Week 1 Homework</a><hr>
 <hr>
 
 ## Authors
